@@ -1,0 +1,6 @@
+RENCANA WEBSITE ZHARFAN
+
+- Membuat website landing page leblanc
+  * Fitur menjual
+  * Fitur navbar keren
+- Membuat website lucu
