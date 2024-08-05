@@ -2,5 +2,5 @@ Zharfan Resolusi
 - Konsisten belajar untuk front-end
 - Membuat website dengan design yang unik dan keren
 - Dapet IP 4 semester 1
-- Konsisten Workout lagi
 - Bisa menguasai HTML, CSS, dan JS
+- Menguasai frameworks sveltekit
